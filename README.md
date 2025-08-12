@@ -1,3 +1,3 @@
-# auth_ex_p2
+# python project
 
 just for exercise
